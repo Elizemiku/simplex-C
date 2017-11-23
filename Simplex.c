@@ -1,6 +1,6 @@
-/*This program implements the primal simplex algorithm,
-distinguishing according to the entry already in standard form
-which phase to implement.
+/*Este programa implementa o algoritmo primal simplex,
+distinguindo de acordo com a entrada já na forma padrão
+qual a fase a ser implementada. 
 */
 
 #include <stdio.h>
