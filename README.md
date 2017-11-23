@@ -1,2 +1,3 @@
 # simplex-C
-Method Simplex
+Method Simplex build in C made at college
+
